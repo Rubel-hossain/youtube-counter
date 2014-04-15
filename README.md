@@ -9,7 +9,9 @@ Simple CasperJS script to count total view of YouTube videos. I made this script
 
 # How to use
 
-Put the list of YouTube embed code to 'code' array. The script will automatically loop through the code and calculate total view.
+1. Put the list of YouTube embed code to 'code' array. The script will automatically loop through the code and calculate total view.
+2. Run the script 'casperjs youtube-counter.js'
+3. Wait until the script finishes and it will tell you total view ( see screenshot ).
 
 # Process
 
